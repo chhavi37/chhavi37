@@ -1,7 +1,7 @@
 Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chhavi Dubey
 =====================================================================================================================================
 
-Web Developer | Computer Science Student
+ Computer Science Student
 ----------------------------------------
 
 Computer Science student and Web Developer passionate about creating modern web applications. I love turning ideas into interactive digital experiences while continuously learning new technologies and building impactful projects. 🚀✨
